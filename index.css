@@ -1,0 +1,41 @@
+button {
+    border-radius: 5px;
+    border: 5px wheat;
+    width: 50%;
+    margin-left: 25%;
+    padding-right: 1px;
+    margin-top: 20px;
+    background-color: green;
+}
+button::after {
+    content:" -Teambot";
+}
+
+
+
+input[type=checkbox]{
+    border-collapse:collapse;
+    width: 400px;
+}
+
+nav{
+    background-color: rgba(109, 109, 109, 0.568);
+    margin-top: -21px;
+    padding-left: 250px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.904);
+}
+#text{
+    font-family: "Abdel";
+}
+iframe{
+margin-left: 25%;
+margin-top: 6%;
+height: 250px;
+width: 45%;
+background-color: rgb(150, 148, 148);
+}
+#start{
+    color: white;
+}
